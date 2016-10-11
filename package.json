@@ -1,0 +1,16 @@
+{
+  "name": "databaseTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Madeleine Huish <madeleinehuish@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.12.3",
+    "knex-csv-seeder": "^0.4.1"
+  }
+}
